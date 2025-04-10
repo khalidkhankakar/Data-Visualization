@@ -10,6 +10,7 @@ y = [1, 4, 9, 16]
 # plt.ylabel("Square of Value")
 # plt.show()
 
+
 plt.plot(x, y,'go',marker='+',
          mouseover=True,
            markersize=10, 
@@ -17,6 +18,7 @@ plt.plot(x, y,'go',marker='+',
            linestyle=':', 
            color='green',
            fillstyle='top')
+           
 plt.title("Square Numbers")
 plt.xlabel("Value")
 plt.ylabel("Square of Value")
