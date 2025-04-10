@@ -8,6 +8,7 @@ y1 = [1, 4, 9, 16, 25]
 y2 = [2, 3, 5, 7, 11]
 
 # Plot both lines
+
 # method1
 plt.plot(x, y1, label="Squares", color="blue", marker='o')
 plt.plot(x, y2, label="Primes", color="green", linestyle='--', marker='x')
