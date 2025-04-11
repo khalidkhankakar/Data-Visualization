@@ -5,7 +5,7 @@ import numpy as np
 np.random.seed(19680801)
 
 x = np.linspace(0, 10)
-with plt.style.context('ggplot'):
+with plt.style.context('bmh'):
     plt.plot(x, np.tan(x) + x + np.random.randn(50))
     plt.plot(x, np.sin(x) + 2 * x + np.random.randn(50))
     plt.plot(x, np.sin(x) + 3 * x + np.random.randn(50))
