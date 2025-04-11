@@ -12,7 +12,7 @@ plt.plot(x, x3, 'go-', label='y = x³')       # Green line with circles
 # plt.plot(x, x, 'r--', x,x2, 'b:', x,x3, 'o')
 
 # Custom y-axis ticks
-plt.xticks([0,1,2,3,4,5,6], ['Zero','One', 'Two', 'Three','Four', 'Five', 'Six'])
+plt.xticks([0,1,2,3,4,5,6], ['Zero','One', 'Two', 'Three','Four', 'Five', 'Six','Seven'])
 
 plt.title('Excerise')
 plt.xlabel('X Axis')
