@@ -10,8 +10,8 @@ y2 = [2, 3, 5, 7, 11]
 # Plot both lines
 
 # method1
-plt.plot(x, y1, label="Squares", color="blue", marker='o')
-plt.plot(x, y2, label="Primes", color="green", linestyle='--', marker='x')
+plt.plot(x, y1, label="Squares", color="red", marker='o')
+plt.plot(x, y2, label="Primes", color="purple", linestyle='--', marker='x')
 
 # method2
 # plt.plot(x,y1, 'r--', x,y2, 'b:')
