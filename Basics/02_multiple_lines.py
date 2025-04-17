@@ -1,8 +1,8 @@
 import matplotlib.pyplot as plt
 
 # Data for Line 1
-x = [1, 2, 3, 4, 5]
-y1 = [1, 4, 9, 16, 25]
+x = [1, 2, 3, 4, 5,6]
+y1 = [1, 4, 9, 16, 25,36]
 
 # Data for Line 2
 y2 = [2, 3, 5, 7, 11]
