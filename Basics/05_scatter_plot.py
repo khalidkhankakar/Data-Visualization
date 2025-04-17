@@ -3,8 +3,8 @@ import numpy as np
 plt.style.use('ggplot')
 # Scatter Plot displays points based on x and y values. Just dots not lines
 
-x = np.random.randint(0,100, 60)
-y = np.random.randint(0, 100, 60)
+x = np.random.randint(0,1000, 60)
+y = np.random.randint(0, 1000, 60)
 
 colors = np.random.randint(0,1000,60)
 
