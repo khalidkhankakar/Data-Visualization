@@ -14,9 +14,10 @@ with plt.style.context('bmh'):
     plt.plot(x, np.sin(x) + 6 * x + np.random.randn(50))
     plt.plot(x, np.sin(x) + 7 * x + np.random.randn(50))
     plt.plot(x, np.sin(x) + 8 * x + np.random.randn(50))
+    plt.plot(x, np.sin(x) + 9 * x + np.random.randn(50))
     # Number of accent colors in the color scheme
-    plt.title('8 Random Lines - Line')
-    plt.xlabel('x label', fontsize=14)
-    plt.ylabel('y label', fontsize=14)
+    plt.title('9 Random Lines - Line')
+    plt.xlabel('X label', fontsize=14)
+    plt.ylabel('Y label', fontsize=14)
 
 plt.show()
