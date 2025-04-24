@@ -21,6 +21,6 @@ plt.plot(x, y,'go',marker='+',
            
 plt.title("Square Numbers")
 plt.xlabel("Value")
-plt.ylabel("Square of Value")
+plt.ylabel("Square of Values")
 plt.show()
 plt.savefig('line_plot.png')
