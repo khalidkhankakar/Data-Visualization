@@ -16,7 +16,7 @@ plt.plot(x, y,'go',marker='+',
            markersize=10, 
            linewidth=5, 
            linestyle=':', 
-           color='green',
+           color='blue',
            fillstyle='top')
            
 plt.title("Square Numbers")
