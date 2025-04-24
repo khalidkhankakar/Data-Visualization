@@ -19,7 +19,7 @@ scatter = plt.scatter(x, y,
                       c=colors,         # color map values
                       cmap='viridis',   # colormap style
                       s=sizes,          # size of points
-                      alpha=0.7,        # transparency
+                      alpha=0.6,        # transparency
                       edgecolors='red', 
                       linewidths=0.5)
 
