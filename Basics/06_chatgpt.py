@@ -20,8 +20,8 @@ scatter = plt.scatter(x, y,
                       cmap='viridis',   # colormap style
                       s=sizes,          # size of points
                       alpha=0.6,        # transparency
-                      edgecolors='red', 
-                      linewidths=0.5)
+                      edgecolors='purple', 
+                      linewidths=0.8)
 
 # Add title and axis labels
 plt.title("Advanced Scatter Plot using NumPy", fontsize=14)
