@@ -17,7 +17,5 @@ plt.xticks([0,1,2,3,4,5,6], ['Zero','One', 'Two', 'Three','Four', 'Five', 'Six',
 plt.title('Excerise of Matplotlib')
 plt.xlabel('X Axis')
 plt.ylabel('Y Axis')
-
 plt.legend()
-
 plt.show()
