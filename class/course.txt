@@ -1,0 +1,10 @@
+Histogram
+Barplot, simple , multiple, component
+Pie chart ?
+Box plot, simple, multiple
+Pair chart
+Joint chart
+Scatter plot
+Voilion plot
+Correlation chart
+Line chart
