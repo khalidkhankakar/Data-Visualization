@@ -8,3 +8,33 @@ Scatter plot
 Voilion plot
 Correlation chart
 Line chart
+
+
+
+Distribution
+Structure of the data, Behaviour of data, 
+
+Kinds of Distribution
+    1. Discrete Distribution
+        A variable which can be only counted. whole numbers, countable. like humans
+
+    2. Continous Distribution
+        A variable which can be measure. like temprature, weight
+
+1. Bionomial Distribution
+This type of Discrete Distribution. Bionomial experiment Data in which we put the Bionomial Distribution.
+    1. It has two possible outcomes.
+    2. Trails are independant.
+    3. Probability of success remain constant.
+    4. Experiment may be fitted to fixed numbers trails.
+Formula
+    P(X= x) = (nCx).(p^x).[q]^(n-x)
+    q = n-P
+    P	=	binomial probability
+    x	=	number of times for a specific outcome within n trials
+    p	=	probability of success on a single trial
+    q	=	probability of failure on a single trial
+    n	=	number of trials
+
+(nCx)
+    nCr = n! / (r! * (n-r)!)
