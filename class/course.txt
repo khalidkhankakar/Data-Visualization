@@ -38,3 +38,32 @@ Formula
 
 (nCx)
     nCr = n! / (r! * (n-r)!)
+
+2. Poisson Distribution
+Draws from Poisson process
+Number of trails are more but probability of success is very low
+
+Accidently occurs
+
+P(x=x) = (e^u)(u^x) / x
+
+n -> inf
+p -> 0
+
+3. Hypergeometric Distribution
+probability of success doesn't remain constant
+Sample without replacement. 
+Population reduces
+
+
+
+N = Population
+n = sample
+x = number of freq
+
+formula = P(X = x) =  (kCx) * (N-kCn-x) / (Nn)
+
+Experiment maybe repeated n times
+Probability of success remains same
+
+
