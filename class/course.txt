@@ -67,3 +67,7 @@ Experiment maybe repeated n times
 Probability of success remains same
 
 
+Normal Distribution
+two parameters
+mu
+mean 
