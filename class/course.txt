@@ -71,3 +71,8 @@ Normal Distribution
 two parameters
 mu
 mean 
+
+
+Group presentation topic
+box plot 
+multiple box plot
